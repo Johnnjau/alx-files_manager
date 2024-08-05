@@ -1,0 +1,21 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "Alx files manager system",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnjau/alx-files_manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnjau/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/Johnnjau/alx-files_manager#readme"
+}
